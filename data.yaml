@@ -1,0 +1,5 @@
+train: "C:/Users/pavan/OneDrive/Documents/Desktop/saketh project/data/yolo_dataset/images/train"
+val:   "C:/Users/pavan/OneDrive/Documents/Desktop/saketh project/data/yolo_dataset/images/val"
+
+nc: 4
+names: ['keep_right', 'stop', 'speed_limit', 'no_entry']
